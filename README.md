@@ -1,3 +1,6 @@
+# Website Project
+**Build Status:** [![Build Status](http://34.207.234.56:8080/buildStatus/icon?job=project2)](http://34.207.234.56:8080/job/project2/)
+
 # Analytics Pvt Ltd: DevOps Automation Project
 
 ## 📝 Project Overview
